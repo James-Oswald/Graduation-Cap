@@ -9,7 +9,7 @@ The janky arduino code for my mortarboard hat at the SUNY Albany 2021 Comencemen
 
 ## Pictures 
 Picture of the hat working on my head durring the 2021 commencement ceremony.
-![./onHead.png](./onHead.png)
+![./OnHead.png](./OnHead.png)
 
 Picture of the hat running on the table under better lighting conditions.
-![./onTable.png](./onHead.png)
+![./OnTable.png](./OnHead.png)
