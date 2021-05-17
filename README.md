@@ -12,4 +12,4 @@ Picture of the hat working on my head durring the 2021 commencement ceremony.
 ![./OnHead.png](./OnHead.png)
 
 Picture of the hat running on the table under better lighting conditions.
-![./OnTable.png](./OnHead.png)
+![./OnTable.png](./OnTable.png)
